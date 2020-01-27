@@ -1,3 +1,4 @@
+Author: github user saabismi (agaboy6000#9898 on Discord)
 https://www.github.com/saabismi/win10bloatrm 
 
 REMEMBER TO EXTRACT THE .ZIP-PACKAGE BEFORE CONTINUING!
