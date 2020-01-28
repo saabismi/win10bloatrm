@@ -10,6 +10,7 @@ because some people might want to keep using them. There will be a version avail
 
 1. Press the Windows button on your keyboard and type "POWERSHELL" to the search box. In the results, right click "Windows Powershell" and select "Run as administrator"
    Now you should have a blue command line window open. Paste the following command to the text field and then press enter: Set-ExecutionPolicy Bypass
+   Answer Y as in YES when asked and when the command has run successfully, close the window.
 
 2. Open powershelladmin.reg - this adds "Run with PowerShell (Admin)" to your context menu
 		Click "YES" in the UAC prompt and then "YES" and "OK" in the registry editor windows.
