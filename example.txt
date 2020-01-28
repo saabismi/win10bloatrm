@@ -1,0 +1,20 @@
+If everything goes well with the apps' uninstallation, the powerhsell window should look like this after it's completed:
+
+Uninstalling 3D Viewer
+Uninstalling Groove Music
+Uninstalling Photos                                                                                                  Uninstalling TV & Video                                                                                              Uninstalling Your phone                                                                                              Uninstalling Messaging                                                                                               Uninstalling People                                                                                                  Uninstalling Get Help                                                                                                Uninstalling Calculator (if you want to keep using the new Windows 10 calculator you should answer N as in NO)                                                                                                                            Confirm                                                                                                              Are you sure you want to perform this action?                                                                        Performing the operation "Remove package" on target "Microsoft.WindowsCalculator_10.1910.0.0_x64__8wekyb3d8bbwe".    [Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "Y"): y                            Uninstalling Mixed Reality Portal                                                                                    Uninstalling Windows Maps                                                                                            Uninstalling Alarm & Clocks                                                                                          Uninstalling Weather                                                                                                 Uninstalling Skype                                                                                                   Uninstalling Snip & Sketch                                                                                           Uninstalling Voice Recorder (if you want to keep using the Windows 10 integrated sound recorded you should answer N as in NO)                                                                                                             
+Confirm
+Are you sure you want to perform this action?
+Performing the operation "Remove package" on target
+"Microsoft.WindowsSoundRecorder_10.1910.3189.0_x64__8wekyb3d8bbwe".
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "Y"): y
+Uninstalling Print 3D
+Uninstalling Wallet
+Uninstalling Feedback Hub
+Uninstalling OneNote
+Uninstalling Sticky Notes
+Uninstalling Microsoft Solitaire Collection
+Uninstalling Office Hub
+Uninstalling Get Started
+Uninstalling Paint 3D
+Press Enter to continue...:

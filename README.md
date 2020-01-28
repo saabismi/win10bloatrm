@@ -22,7 +22,8 @@ because some people might want to keep using them. There will be a version avail
    this will start the uninstallation of the programs and services listed below.  You will be prompted on Calculator and Voice Recorder.
 		Click "YES" in the UAC prompt. Wait for the program to uninstall the software and then examine any errors if any may occur. 
 			If everything seems all right, press ENTER. 
-		
+			You can see an example of a perfect uninstallation process in the "example.txt" file
+			
 5. Right click on dothislast.ps1 and select "Run with PowerShell (Admin)" from the context menu - 
    this sets the Get-ExecutionPolicy to the default settings so that your PC will not be left vulnerable to malicious scripts.
 		Click "YES" in the UAC prompt and then press ENTER when the blue PowerShell window tells you to do so.
