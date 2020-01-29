@@ -1,1 +1,0 @@
-powershell -command "& .\removebloat.ps1"
