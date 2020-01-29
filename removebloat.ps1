@@ -2,9 +2,9 @@
 
 <#Currently the script removes the following apps and services: 3D viewer, Groove music, Photos, TV and Video, Your phone, Messaging, People, Get Help, Mixed Reality Portal, 
 Windows Maps, Alarm & clocks, Weather, Skype, Snip & Sketch, Voice Recorder, Print 3D, Wallet, Feedback Hub, OneNote, Sticky Notes, Solitaire collection, Office Hub, 
-Get started, Paint 3D #>
+Get started, Paint 3D, Connect, Camera #>
 
-#The script will ask for your confirmation when uninstalling Calculator and Voice recorder because some people might want to keep using them.
+#The script will ask for your confirmation when uninstalling Calculator, Camera and Voice recorder because some people might want to keep using them.
 
 Write-Output "Uninstalling 3D Viewer"
 Get-AppxPackage | Select-String 'Microsoft.Microsoft3dviewer' | Remove-AppxPackage
@@ -25,7 +25,7 @@ Write-Output "Uninstalling Messaging"
 Get-AppxPackage | Select-String 'messaging' | Remove-AppxPackage
 
 Write-Output "Uninstalling People"
-Get-AppxPackage | Select-String 'people' | Remove-AppxPackage
+Get-AppxPackage | Select-String 'microsoft.people' | Remove-AppxPackage
 
 Write-Output "Uninstalling Get Help"
 Get-AppxPackage | Select-String 'gethelp' | Remove-AppxPackage
@@ -80,6 +80,14 @@ Get-AppxPackage | Select-String 'getstarted' | Remove-AppxPackage
 
 Write-Output "Uninstalling Paint 3D"
 Get-AppxPackage | Select-String 'mspaint' | Remove-AppxPackage
+
+Write-Output "Uninstalling Connect"
+Get-AppxPackage | Select-String 'oneconnect' | Remove-AppxPackage
+
+Write-Output "Uninstalling Camera"
+Get-AppxPackage | Select-String 'windowscamera' | Remove-AppxPackage -Confirm
+
+
 
 Pause
 
