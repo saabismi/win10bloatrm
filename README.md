@@ -1,6 +1,6 @@
 This hasn't been updated in a while but I hope it still works :D
 
-======
+---
 
 ##Windows 10 Bloatware remover
 
