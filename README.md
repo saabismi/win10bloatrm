@@ -1,8 +1,9 @@
 This hasn't been updated in a while but I hope it still works :D
+If you have questions about the script you can contact me on Discord.
 
 ---
 
-##Windows 10 Bloatware remover
+## Windows 10 Bloatware remover
 
 Author: github user saabismi (agaboy6000#9898 on Discord)
 https://www.github.com/saabismi/win10bloatrm 
